@@ -1,0 +1,32 @@
+.navbar{
+  display: flex;
+  justify-content: flex-end;
+  overflow: hidden;
+
+}
+
+.navigationdiv
+{
+
+  background: linear-gradient(to right, rgb(248, 19, 7), rgb(221, 128, 34));
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.logo{
+
+  height:40px;
+  width: 200px;
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 10px;
+  top :4;
+ margin-top:auto;
+
+}
+.navigation:hover{
+  cursor: pointer;
+  color: blue;
+  text-decoration: underline;
+  font-size: 25px;
+}

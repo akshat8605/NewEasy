@@ -1,0 +1,27 @@
+.mainlogo{
+  margin-top: 100px;
+  padding-top: 40px;
+  width:650px;
+  height: 200px;
+  display: flex;
+
+}
+.mainlogodiv{
+  background: white;
+  z-index :1;
+}
+.mainlogobutton{
+  justify-content: center;
+  background: red;
+}
+
+
+.logodivision{
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  z-index: -1;
+  justify-content:center;
+}
